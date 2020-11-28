@@ -1,0 +1,15 @@
+.contact {
+  padding: 1vh 3vw 0 2vw;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+}
