@@ -5,3 +5,4 @@ Istriangold web page written in React.js
 - react
 - react-dom
 - react-router-dom
+- react-icons
