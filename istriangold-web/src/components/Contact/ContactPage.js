@@ -5,9 +5,12 @@ function ContactPage() {
   return (
     <div className="contact">
       <div className="contact-container">
-        <h1>Contact us</h1>
+        <div className="contact-title">
+          <h1>Contact us</h1>
+        </div>
         <div className="contact-items">
-          <p> Our prefered contact is: </p>
+          <p> Our prefered contact is over email</p>
+          <p> istriangold@gmail.com</p>
         </div>
       </div>
     </div>
